@@ -1,0 +1,58 @@
+baseURL = "https://blog.leonardkant.com"
+title = "Leonard Kant"
+languageCode = "en-us"
+theme = "devise"
+relativeURLs = true
+enableEmoji = true
+googleAnalytics = "G-WWQCDTX992"
+enableRobotsTXT = true
+copyright = "&copy; 2023, Leonard Kant"
+
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "read"
+    name = "Read"
+    title = "Read"
+    url = "/"
+    weight = -110
+#  [[menu.main]]
+#    identifier = "posts"
+#    name = "Posts"
+#    title = "Posts"
+#    url = "/posts/"
+#    weight = -100
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    title = "Categories"
+    url = "/categories/"
+    weight = -90
+  [[menu.main]]
+    identifier = "aboutme"
+    name = "About me"
+    title = "About me"
+    url = "https://www.leonardkant.com"
+    weight = -80
+
+# Configuration Features
+[params]
+  description = "This is Leonard Kant's blog.'"      # Your meta description of the site
+  header_title = "Leonard Kant"                 # Your header title
+  header_subtitle = "Strategic Growth" # Your header subtitle
+  home_image = "/images/avatar.png"          # Path to header image starting from the static directory (optional)
+  favicon = "/favicon.ico"                   # Path to favicon image starting from static. Defaults to "./favicon.ico"
+  favicon_type = "x-icon"                    # Image extension. Defaults to x-icon
+  recent_posts = 5                           # Max amount of recent posts to show
+  mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
+  [params.style]                             # CSS style overrides
+    backgroundColor = "#f8f9fa"
+    homeImageBorderColor = "#ffffff"
+    fontFamilyBase = "Helvetica Neue"        # First-choice font
+    fontColor = "#212529"
+  [[params.social]]
+    fa_icon = "fab fa-linkedin-in fa-1x"
+    href = "https://www.linkedin.com/in/leonardkant"
+  [[params.social]]
+    fa_icon = "fas fa-at fa-1x"
+    href = "mailto:contact@leonardkant.com"
