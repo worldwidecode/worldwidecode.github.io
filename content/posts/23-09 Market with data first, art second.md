@@ -1,6 +1,6 @@
 ---
 title: "Market with data first, art second"
-Date: 2021-04-06T12:53:20+00:00
+Date: 2023-09-03T19:34:20+00:00
 draft: false
 categories: "Marketing"
 ---
