@@ -29,7 +29,7 @@ When doing or building something, ask and answer high-level questions like:
 3. What does it not do?
 4. And why should it not do that?
 
-**Knowing what is a "go" and a "no-go" offers the clarity to keep building ideas on top of each other, *in an order that comes naturally to whatever the idea is * **at the time** *(intuition).*
+**Knowing what is a "go" and a "no-go" offers the clarity to keep building ideas on top of each other, ** *in an order that comes naturally to whatever the idea is at the time (intuition).*
 
 `Figure out what makes increasingly more sense along the way: just stick to the truths you already know.`
 
