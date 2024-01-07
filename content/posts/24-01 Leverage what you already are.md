@@ -19,7 +19,7 @@ This includes acknowledging that *we can often do more than we think.* Where we 
 **Once you understand your risk profile, you can better assess how to *balance your workload.***
 
 Let me explain using an equation (for visualization, not mathematical purposes):
-`Your growth workload = (risk propensity * relative output of the percentage of time spent on work you feel comfortable doing) / (risk propensity * relative output of the percentage of time spent on work you feel uncomfortable doing)`
+`Your growth workload = (risk factor * relative output of the percentage of time spent on work you feel comfortable doing) / (risk factor * relative output of the percentage of time spent on work you feel uncomfortable doing)`
 
 **People don't operate in extremes; we must find *balance.***
 
