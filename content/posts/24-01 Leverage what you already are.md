@@ -8,7 +8,7 @@ categories: "Entrepreneurship"
 
 Whether you're starting something new or working on an existing project, **always try to take advantage of your current skill set in every task.**
 
-We often hear advice from so-called gurus about always operating in discomfort, claiming  where growth happens ***only there***. 
+We often hear advice from so-called gurus about always operating in discomfort, claiming growth happens ***only there***. 
 
 **I disagree; rather we should operate where we can.** 
 
